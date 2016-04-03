@@ -1,14 +1,19 @@
 /*
 main    its's a bit over engineered,
 	and could be better with more files,
-	but I know to know my limits
-	and has to fit in one ..
-	it would benefit from generics,
-	but we have none,
-	it would benefit code generation,
-	but I coded none,
+	but I have to know my limits
+	and it has to fit in one ..
+	Would be simpler with generics,
+		but simplicity is a must,
+	is not essential said the Gopher
+	and the Gopher gave us none,
+	it would benefit for certain
+		generating T's in types,
+	but we know I'm pretty lazy
+	and we know I coded no one,
+
 	I'm learning go :)
-	mind the runtime checking ... ;]
+	mind the runtime checking ...
 	implementing sort of piping ...
 		.. I'm gone
 	NOTE: v2 will make it rhyme
